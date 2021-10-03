@@ -33,3 +33,16 @@ You can click the Preview link to take a look at your changes.
 <img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
 <img alt="heroku" src="https://img.shields.io/badge/heroku-5920B1.svg?&style=for-the-badge&logo=heroku&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=winlex&theme=algolia" alt="winlex's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="winlex's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=winlex&theme=algolia&layout=compact" />
+    </td>
+  </tr>
+</table>
